@@ -1,4 +1,4 @@
-<h1> MBM Coders </h1>
+<h1> RAIZERO TEAM </h1>
 
 <picture> 
   <img src="https://github.com/MBM-Coders/Team-Assets/blob/main/Img/Profile%20Img/Team%20Img.jpg" > 
